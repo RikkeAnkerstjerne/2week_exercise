@@ -1,0 +1,29 @@
+/*Rubber Duck*/
+.body{
+    background-color:antiquewhite;
+    
+}
+.textBody{
+    text-align: center;
+    color:rgb(90, 68, 111);
+}
+.header{
+    background-color:rgb(183, 169, 169);
+    margin: -10px;
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    padding: 10px;
+    height: 50px;
+}
+.userButton{
+    margin: 20px;
+    border-radius: 10%;
+}
+.errorMessage{
+    border-color: red;
+}
+.usernameErrorMessage{
+    color: red;
+}
